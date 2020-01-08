@@ -1,0 +1,5 @@
+This is a classic style Pong made with Python.
+The goal of the game is to score more points than your opponent.
+
+Player A uses W and S for the up-down movement.
+Player B uses the arrow keys.
